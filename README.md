@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O ZingenApp é uma LandingPage responsiva para um App de Karaokê
+O Snitap é uma LandingPage responsiva para uma loja de Patins
 
 - [Acesse o projeto finalizado, online](https://erikschulter.github.io/Snitap)
 
