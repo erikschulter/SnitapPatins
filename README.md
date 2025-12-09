@@ -26,5 +26,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Snitap é uma LandingPage responsiva para uma loja de Patins
 
-- [Acesse o projeto finalizado, online](https://erikschulter.github.io/Snitap)
+- [Acesse o projeto finalizado, online](https://erikschulter.github.io/SnitapPatins)
 
