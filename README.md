@@ -5,13 +5,13 @@ LandingPage responsiva para uma loja de Patins <br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto Snitap" src="/github/readme.jpeg" width="100%">
+  <img alt="projeto Snitap" src="github/readme.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
